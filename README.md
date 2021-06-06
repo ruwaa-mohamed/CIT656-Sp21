@@ -8,3 +8,4 @@ Welcome to the CIT656 Python for Bioinformatics course offered by Nile Universit
 4. [Lab 4](CIT656-Sp21-lab04.ipynb)
 5. [Lab 5](CIT656-Sp21-lab05.ipynb)
 6. [Lab 6](CIT656-Sp21-lab06.ipynb)
+7. [Lab 7](CIT656-Sp21-lab07.ipynb)
