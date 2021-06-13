@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+Gene_data.txt
+PathLinker_PPI.txt
+PathLinker_PPI_affinity.txt
+PathLinker_PPI_others.txt
+YNL088W_genomic_dna.fsa
